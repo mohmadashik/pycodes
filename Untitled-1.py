@@ -1,0 +1,2 @@
+s = '\'\x1b 1703615940646@2912@14@12@.29841786138515, "ground_zero_altitude": 582.134}, "drive_action_details": {"current_drive_action": "17036143051510", "current_operator_id": 848, "operator_firstname": "Monarch Support", "operator_lastname": "Tea'
+print(len(s))
